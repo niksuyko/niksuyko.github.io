@@ -1,7 +1,7 @@
 body {
     font-family: 'Lato', sans-serif;
     color: #333;
-    background: linear-gradient(to right, #dae2f8, #d6a4a4); /* Subtle gradient */
+    background: linear-gradient(to right, #dae2f8, #d6a4a4);
     margin: 0;
     padding: 0;
     text-align: center;
@@ -56,11 +56,11 @@ line-height: 1.6;
 }
 
 .project-image {
-    width: 100%; /* Ensures the image is responsive and scales with the width of its container */
-    height: auto; /* Maintains the aspect ratio of the image */
-    border-radius: 10px; /* Optional: adds rounded corners to the image */
-    margin-top: 1em; /* Adds space between the description and the image */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow for depth */
+    width: 100%;
+    height: auto; 
+    border-radius: 10px;
+    margin-top: 1em;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 
@@ -70,10 +70,6 @@ color: white;
 padding: 1em 0;
 bottom: 0;
 width: 100%;
-}
-
-.social-links {
-/* Style for social media icons */
 }
 
 .contact-info {
